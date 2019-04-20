@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+E:\BSC Computer Science\Semester 02\2017 CI101 - Programming\Mini Project 2\breakoutSwing\.metadata\.plugins\org.eclipse.jdt.core
